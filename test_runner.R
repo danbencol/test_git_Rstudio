@@ -1,2 +1,1 @@
 print("weh")
-print("Ahllo")
